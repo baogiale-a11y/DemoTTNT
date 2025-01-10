@@ -4,10 +4,9 @@ import numpy as np
 
 # Bước 1: Nhập ma trận chi phí
 cost_matrix = np.array([
-    [6, 4, 7],
-    [5, 3, 2],
-    [8, 5, 3],
-    [9, 2, 6]
+    [4, 2, 3],
+    [3, 5, 1],
+    [2, 4, 6],
 ])
 
 # Bước 2: Áp dụng Hungarian Algorithm
